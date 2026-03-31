@@ -1,1 +1,2 @@
-# odin-recipes
+# Odin Recipes
+Make a simple recipes' site
